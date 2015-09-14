@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AA计算器</string>
+
+    <string name="calculate">计算</string>
+
+    <string name="total_account">总价($)</string>
+    <string name="total_people">总人数</string>
+    <string name="tip_rate">小费比例(%)</string>
+    <string name="has_drivers">考虑司机</string>
+    <string name="total_drivers">司机人数</string>
+    <string name="driver_discount">司机折扣($)</string>
+    <string name="need_integer">取整</string>
+    <string name="result">结果</string>
+
+</resources>
